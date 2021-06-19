@@ -4,6 +4,9 @@ module.exports = async (bot) => {
         "diamond_sword",
         "netherite_sword",
         "totem_of_undying",
+        "cooked_cod",
+        "bread",
+        "carrot",
     ];
 
     let inventory = bot.inventory;
